@@ -12,7 +12,9 @@ O repositório contém dois arquivos principais:
 - Sistema operacional Ubuntu 20.04
 - ROS Noetic
 - Python 
-
+**Obs:** Garanta que o Ros esteja instalado.
+  - Instale em: http://wiki.ros.org/noetic/Installation/Ubuntu
+    
 **Como Clonar e Executar o Projeto**
 - Abra o terminal no Ubuntu 20.04.
 - Navegue até o diretório do projeto.
